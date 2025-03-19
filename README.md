@@ -6,7 +6,7 @@ Now I am open-sourcing the code, hoping to provide relevant assistance to those 
 ## Getting Started  
 ### Prerequisites  
 Before running the code, ensure that you have a suitable Python environment with necessary dependencies installed. You can install the dependencies via:  
-`pip install -r requirements.txt
-`  
+`pip install -r requirements.txt`  
 ### Dataset  
+If you want to conduct training, I recommend using publicly available open-source [datasets](https://www.kaggle.com/datasets/jimitdand/mammographic-mass-data-set-for-breast-cancer).  
 
