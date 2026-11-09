@@ -1,6 +1,6 @@
 <div align="center">
 
-# BI-RADS Breast Imaging Classification & Feature Recognition
+# BI-RADS: Classification & Feature Recognition
 
 **An EfficientNet-based approach to breast imaging classification and feature identification**
 
